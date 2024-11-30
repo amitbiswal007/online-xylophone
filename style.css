@@ -1,0 +1,21 @@
+.btnContainer {
+    text-align: center;
+}
+
+.playSongBtns {
+    border: 0px ;
+    height: 70vh;
+    width: 10vw;
+    margin-left: 1vw;
+    border-radius: 20px;
+    box-shadow: 2px 5px grey;
+    background-color: rgb(74, 230, 230);
+}
+
+.playSongBtns:hover {
+    background-color:pink;
+    transform: scale(1.01);
+}
+h1{
+    text-align: center;
+}
